@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://valasek.github.io/faq/</loc>
+    <lastmod>2018-10-29T23:37:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valasek.github.io/dokumenty/</loc>
+    <lastmod>2018-10-29T23:28:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valasek.github.io/kontakty/</loc>
+    <lastmod>2018-10-29T22:02:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valasek.github.io/</loc>
+    <lastmod>2018-10-29T21:35:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valasek.github.io/aktuality/vypadek_hospic/</loc>
+    <lastmod>2018-08-23T21:37:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valasek.github.io/aktuality/nahradni_clenska_schuze/</loc>
+    <lastmod>2016-04-24T21:37:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valasek.github.io/aktuality/</loc>
+    <lastmod>2018-08-23T21:37:37+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://valasek.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://valasek.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

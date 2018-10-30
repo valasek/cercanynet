@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Čerčany.Net</title>
+    <link>https://valasek.github.io/</link>
+    <description>Recent content on Čerčany.Net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-CZ</language>
+    <lastBuildDate>Mon, 29 Oct 2018 21:35:35 +0100</lastBuildDate>
+    
+	<atom:link href="https://valasek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Otázky a Odpovědi</title>
+      <link>https://valasek.github.io/faq/</link>
+      <pubDate>Mon, 29 Oct 2018 23:37:33 +0100</pubDate>
+      
+      <guid>https://valasek.github.io/faq/</guid>
+      <description>Jsem rozhodnut(a) se připojit, ale nevím kde začít? Ověřte, na který z přípojných bodů máte přímou a ničím (stromy, střechy) nestíněnou viditelnost. Následně se zaregistrujte skrze přihlášku. Přihlášku odešlete na adresu hospodar@cercanynet.cz. Obratem vás budeme kontaktovat, emailem či telefonicky. Napíšeme, jaká je situace ve vaší blízkosti a navrhneme vám jak přesně postupovat. Sdělíme vám co vše budete potřebovat a jak velké budou náklady s tím spojené.
+Co vše potřebuji k připojení do sítě, jaký HW?</description>
+    </item>
+    
+    <item>
+      <title>Dokumenty</title>
+      <link>https://valasek.github.io/dokumenty/</link>
+      <pubDate>Mon, 29 Oct 2018 23:28:08 +0100</pubDate>
+      
+      <guid>https://valasek.github.io/dokumenty/</guid>
+      <description> Přihláška do spolku (PDF) Převod členství (PDF) Ukončení členství (PDF) Stanovy spolku - neexistující odkaz na původních stránkách (PDF) Finanční řád (PDF) Provozní řád (PDF) Netiketa (příloha provozního řádu) (PDF) Všechny oficiální dokumenty pěkně pohromadě&amp;hellip; (PDF)  </description>
+    </item>
+    
+    <item>
+      <title>Kontakty</title>
+      <link>https://valasek.github.io/kontakty/</link>
+      <pubDate>Mon, 29 Oct 2018 22:02:52 +0100</pubDate>
+      
+      <guid>https://valasek.github.io/kontakty/</guid>
+      <description>Čerčany.Net, z.s. Sukova 131
+257 22 Čerčany
+IČ: 26650100
+registrováno u MV ČR 13.1.2004, č.j. VS/1-1/55956/04-R
+Výbor          Předseda Vladimír Stach   Místopředseda Michal Novotný   Místopředseda Přemysl Berka   Člen Martin Tůma   Člen Radek Kašpar    Kontrolní komise          Předseda Miloš Havlíček   Člen Ondřej Zágora   Člen Jan Kašpar    Kontaktujte nás Vaše jménoEmail adresaEmail adresa je povinná.</description>
+    </item>
+    
+    <item>
+      <title>Výpadek dodávky Internetu na lokalitě Hospic</title>
+      <link>https://valasek.github.io/aktuality/vypadek_hospic/</link>
+      <pubDate>Thu, 23 Aug 2018 21:37:37 +0100</pubDate>
+      
+      <guid>https://valasek.github.io/aktuality/vypadek_hospic/</guid>
+      <description>Vážení členové spolku Čerčany.NET,
+omlouváme se za dnešní (23.8.2018) výpadek dodávky Internetu na lokalitě Hospic, v čase mezi 14:49 - 15:56h. Výpadek byl způsobený technickou závadou na páteřním spoji, kterým je Hospic připojen k Internetu. Závadu jsme odstranili výměnou za nový díl.</description>
+    </item>
+    
+    <item>
+      <title>Náhradní členská schůze</title>
+      <link>https://valasek.github.io/aktuality/nahradni_clenska_schuze/</link>
+      <pubDate>Sun, 24 Apr 2016 21:37:37 +0100</pubDate>
+      
+      <guid>https://valasek.github.io/aktuality/nahradni_clenska_schuze/</guid>
+      <description>V neděli 24.4.2016 proběhla Náhradní členská schůze spolku, na které byla schválena výroční zpráva a účetní závěrka za rok 2015 a rozpočet na rok 2016.
+Veškeré dokumenty z členské schůze jsou k dispozici na uživatelských webových stránkách (https://user.cercanynet.cz). Všem zúčastněným děkujeme.</description>
+    </item>
+    
+  </channel>
+</rss>
