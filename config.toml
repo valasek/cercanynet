@@ -1,0 +1,16 @@
+baseURL = "http://www.cercanynet.cz/"
+languageCode = "cs-CZ"
+title = "Čerčany.Net"
+theme = "ananke"
+
+[[menu.main]]
+name = "Meteo informace"
+weight = 0
+identifier = "meteo"
+url = "http://moje.meteo-pocasi.cz/cercanynet/"
+
+[[menu.main]]
+name = "Užívatelský systém"
+weight = 0
+identifier = "system"
+url = "https://user.cercanynet.cz/"
