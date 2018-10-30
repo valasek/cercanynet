@@ -1,7 +1,7 @@
 ---
 title: "Kontakty"
 date: 2018-10-29T22:02:52+01:00
-draft: true
+draft: false
 type: page
 menu:
   main: {
@@ -35,6 +35,5 @@ Předseda | *Miloš Havlíček*
 Člen | *Jan Kašpar*
 
 ### Kontaktujte nás
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
 
 {{< form-contact action="https://example.com"  >}}

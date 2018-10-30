@@ -1,7 +1,7 @@
 ---
 title: "Dokumenty"
 date: 2018-10-29T23:28:08+01:00
-draft: true
+draft: false
 type: page
 menu:
   main: {

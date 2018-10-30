@@ -1,7 +1,7 @@
 ---
 title: "Výpadek dodávky Internetu na lokalitě Hospic"
 date: 2018-08-23T21:37:37+01:00
-draft: true
+draft: false
 ---
 
 Vážení členové spolku Čerčany.NET,  

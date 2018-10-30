@@ -1,7 +1,7 @@
 ---
 title: "Otázky a Odpovědi"
 date: 2018-10-29T23:37:33+01:00
-draft: true
+draft: false
 type: page
 toc: true
 menu:

@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2018-10-29T21:35:35+01:00
-draft: true
+draft: false
 ---
 
 ***Čerčany.NET je neziskový spolek, jehož cílem je poskytovat svým členům připojení jejich počítačů do vysokorychlostní bezdrátové sítě s napojením do internetu.***
